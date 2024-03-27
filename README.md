@@ -1,4 +1,4 @@
-# ProtonMail - Auto Select to Next Message
+# ProtonMail - Auto Select Next Message
 
 This user script alters functionality of the ProtonMail web app to automatically select the next message in the list after you press archive, delete or spam for the current one. It works both with split view and full-view.
 

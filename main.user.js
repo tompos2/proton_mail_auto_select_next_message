@@ -2,7 +2,7 @@
 // @name ProtonMail - Auto Select Next Message
 // @namespace http://tampermonkey.net/
 // @version 1.0
-// @description Automatically selects the next email in ProtonMail after archiving or deleting the current one.
+// @description Automatically selects the next email in ProtonMail after archiving, deleting or spamming the current one.
 // @author Tom Stayte
 // @match *://mail.proton.me/*
 // @grant none

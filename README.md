@@ -27,7 +27,7 @@ To use this user script, you need to have the Tampermonkey browser extension ins
    - For Firefox: [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 2. Install the user script:
-   - Click on this link: [ProtonMail - Auto Move to Next Message](https://github.com/yourusername/protonmail-auto-move-to-next-message/raw/main/protonmail-auto-move-to-next-message.user.js)
+   - Click on this link: [ProtonMail - Auto Move to Next Message](https://github.com/tompos2/proton_mail_auto_select_next_message/blob/master/main.js)
    - Tampermonkey will detect the user script and open a new tab with the script's details.
    - Click on the "Install" button to install the script.
 

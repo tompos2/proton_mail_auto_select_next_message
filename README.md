@@ -14,6 +14,10 @@ ProtonMail - if you are reading this - you should implement this asap!
 
 A userscript is a mini program that enhances or modifies the functionality of a website. It runs in your web browser by injecting javascript into the current webpage and can customize the appearance, add new features, or automate tasks. Userscripts are installed and managed using a browser extension like Tampermonkey.
 
+## Is this script safe to use?
+
+I chose to use Proton Mail becuase I value privacy, as I'm sure you do. Rest assued this script interacts only with the ProtonMail interface and cannot send any data or information to external servers - you can check the source code. If you're non-technical, paste it into ChatGPT and ask it verify what I say here. The script simply detects when you click the archive, trash, or spam buttons and then simulates a keypress to select the next email in your inbox. 
+
 ## Installation
 
 To use this user script, you need to have the Tampermonkey browser extension installed. Follow these steps to install Tampermonkey and the user script:

@@ -13,7 +13,7 @@ console.log('Script is running');
 (function() {
     'use strict';
 
-    // Function to simulate click on the first item
+    // Function to simulate click on the first email in inbox
 function selectNextItem() {
     const parentContainer = document.querySelector('.delight-items-column-list-container');
     if (!parentContainer) return;
@@ -31,7 +31,7 @@ function selectNextItem() {
 
     // Function to handle the click event
     function handleClick(event) {
-        console.log('Archive or trash button clicked');
+        console.log('Archive, trash or spam button clicked');
         const target = event.target;
 
         // Check if the clicked element or its parents have a data-testid attribute matching our criteria

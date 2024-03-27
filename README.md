@@ -14,6 +14,11 @@ ProtonMail - if you are reading this - you should implement this asap!!!
 - Works with the ProtonMail web interface on Chrome and Firefox (Desktop)
 - Easy to install and use with the Tampermonkey browser extension
 
+## Usage
+Currently the functionality only works with the archive, delete and spam buttons in the toolbar. It won't work if you click archive, delete or spam either in the email body or in the list - it has to be the toolbar at the top of the screen. If you click the buttons in these other areas, the original ProtonMail functionality will happen.
+
+If there's demand for this script I will write the code make it work with the other buttons - let me know if this functionality would be useful to you and I'll see what I can do... 
+
 ## What is a userscript?
 
 A userscript is a mini program that enhances or modifies the functionality of a website. It runs in your web browser by injecting javascript into the current webpage and can customize the appearance, add new features, or automate tasks. Userscripts are installed and managed using a browser extension like Tampermonkey.

@@ -12,6 +12,8 @@ ProtonMail - if you are reading this - you should implement this asap!
 
 ## What is a userscript?
 
+A userscript is a mini program that enhances or modifies the functionality of a website. It runs in your web browser by injecting javascript into the current webpage and can customize the appearance, add new features, or automate tasks. Userscripts are installed and managed using a browser extension like Tampermonkey.
+
 ## Installation
 
 To use this user script, you need to have the Tampermonkey browser extension installed. Follow these steps to install Tampermonkey and the user script:
@@ -31,7 +33,7 @@ To use this user script, you need to have the Tampermonkey browser extension ins
 
 ## How It Works
 
-The script listens for click events on the "Move to Trash", "Archive" and "Spam" buttons. When one of these buttons is clicked, the script performs the following steps:
+The script uses Javascript to listen for click events on the "Move to Trash", "Archive" and "Spam" buttons. When one of these buttons is clicked, the script performs the following steps:
 
 1. It finds the parent container that holds the list of messages.
 2. Within the parent container, it identifies the first message item.

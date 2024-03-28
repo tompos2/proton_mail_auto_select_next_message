@@ -23,7 +23,7 @@ If there's demand for this script I will write the code make it work with the ot
 
 A userscript is a mini program that enhances or modifies the functionality of a website. It runs in your web browser by injecting javascript into the current webpage and can customize the appearance, add new features, or automate tasks. Userscripts are installed and managed using a browser extension like Tampermonkey.
 
-## What is Tampermonkey
+## What is Tampermonkey?
 
 Tampermonkey is a popular and powerful browser extension that serves as a user script manager, enabling you to enhance and modify the functionality of websites and web applications by installing small pieces of JavaScript known as userscripts. These scripts can alter layouts, automate tasks, inject new features, or otherwise customize the browsing experience on virtually any website. Tampermonkey provides a user-friendly interface to manage and edit these scripts,
 

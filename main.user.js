@@ -3,7 +3,7 @@
 // @namespace http://tampermonkey.net/
 // @version 1.0
 // @description Automatically selects the next email in ProtonMail after archiving, deleting or spamming the current one.
-// @author Tom Stayte
+// @author tompos2
 // @match *://mail.proton.me/*
 // @grant none
 // ==/UserScript==

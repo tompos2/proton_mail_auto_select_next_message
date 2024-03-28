@@ -69,7 +69,7 @@ This user script has been tested with the following browsers:
 
 If you encounter any issues or have suggestions for improvements:
 
-- Open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/protonmail-auto-move-to-next-message).
+- Open an issue or submit a pull request on the [GitHub repository](https://github.com/tompos2/proton_mail_auto_select_next_message).
 - Email me at 3gchyyth@duck.com
 
 ## License

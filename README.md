@@ -36,7 +36,7 @@ I can't understand why this hasn't already been built — this 'feature' has bee
 
 ### 2. Install the Script
 
-Click here to install: **[ProtonMail - Auto Select Next Message](https://github.com/tompos2/proton_mail_auto_select_next_message/raw/main/main.user.js)**
+Click here to install: **[ProtonMail - Auto Select Next Message](https://github.com/tompos2/proton_mail_auto_select_next_message/raw/master/main.user.js)**
 
 Tampermonkey will open and show you the script. Click **Install** to add it.
 
